@@ -3,7 +3,7 @@ theme = "zola-inky"
 description = "A pottering retreat in the heart of Ireland's hidden heartlands"
 
 # The URL the site will be built for
-base_url = "https://jimmyff.github.io/zola-inky"
+base_url = "https://pottering-retreat.vercel.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -60,7 +60,7 @@ thumbnail_default_size = 256
 thumbnail_sizes = [128, 256]
 
 
-link_github_username = "jimmyff/zola-inky"
+# link_github_username = "jimmyff/zola-inky"
 # link_twitter_username = ""
 # link_mastodon_url = ""
 # link_medium_username = ""
