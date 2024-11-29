@@ -1,4 +1,4 @@
-title = "Cavan Pottering Retreat"
+title = "Cavan Retreat"
 theme = "zola-inky"
 description = "A pottering retreat in the heart of Ireland's hidden heartlands"
 
@@ -37,7 +37,7 @@ anchors = "on"
 [extra]
 
 # Place your avatar in your /static folder
-avatar = "/inky.png"
+avatar = "/logo.jpg"
 
 # Your Google Analytics measurement id ("G-XXXXXXXXXX")
 # google_analytics_tag_id = "";
@@ -67,7 +67,7 @@ thumbnail_sizes = [128, 256]
 # link_instagram_username = ""
 
 menu_links = [
-    { url = "$BASE_URL/", name = "Pottering" },
+    { url = "$BASE_URL/", name = "Home" },
     { url = "$BASE_URL/activities/", name = "Activities" },
     { url = "$BASE_URL/gallery/", name = "Gallery" },
     # { url = "https://github.com/jimmyff/zola-inky", name = "Github" },
