@@ -3,7 +3,7 @@ theme = "zola-inky"
 description = "A pottering retreat in the heart of Ireland's hidden heartlands"
 
 # The URL the site will be built for
-base_url = "https://pottering-retreat.vercel.app"
+base_url = "https://pottering.eu"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
