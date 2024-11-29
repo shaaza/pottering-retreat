@@ -8,13 +8,11 @@ in_search_index = true
 
 We provide (free) accommodation for travelers seeking a break without breaking the bank in (semi-)rural Ireland, in a middle of nowhere town. My friend and I live here, and we have a few spare rooms available. 
 
-It's a great place to while away your time, or '[potter around](https://www.merriam-webster.com/dictionary/potter%20around%2Fabout)'.
+It's a great place to while away your time, or '[potter around](activities)'.
 
 
 > Pottering is the act of occupying oneself in a pleasant way but without a definite plan or purpose. 'Pleasant' implies comfort and the lack of a plan implies freedom.
 > <sub>(from Pottering: A Cure for Modern Life, Anna McGovern)</sub>
-
-The fundamentals of pottering are: make do with what you've got, don't try too hard, move (a little), keep it local, keep it real (not digital). We hope this retreat lets you experience that. See a [description of an example of pottering around.](activities)
 
 To book, call, text or WhatsApp Shaaz on +353833712444.
 

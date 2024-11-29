@@ -6,7 +6,9 @@ in_search_index = true
 
 
 ### 'Potter around'
-The number one recommended activity is pottering around, i.e. "to spend time in a relaxed way doing small jobs and other things that are not very important". It is therapeutic, but it's also one of the few things you _can_ do given there's not much around.
+The number one recommended activity is pottering around, i.e. "to spend time in a relaxed way doing small jobs and other things that are not very important". It is therapeutic, but it's also one of the few things you _can_ do given there's not much around. 
+
+The fundamentals of pottering are: make do with what you've got, don't try too hard, move (a little), keep it local, keep it real (not digital). We hope this retreat lets you experience that.
 
 ### Local News Recommendations
 
