@@ -47,7 +47,7 @@ To book, call, text or WhatsApp Shaaz on +353833712444.
 
 #### Is it really free?
 
-Kind of, it's barter: we accept gifts and donations. Gifts can be anything: from a used book or a bottle of whiskey to a piece of furniture or a PlayStation. Maybe it's something you think the house needs, so you can donate after your stay as well. Check out our [guest wishlist](https://www.google.com) for some ideas. You could also help around the house, such as mow the lawn, work on the campervan, or even do some DIY around the house, if you want to!
+Yes, except for the ensuite room. We do encourage barter: we accept gifts and donations, but it's not mandatory. Gifts can be anything: from a used book you read or a bottle of whiskey to a piece of furniture or even a fancy gadget. Maybe it's something you think the house needs, so you can donate after your stay as well. Check out our [guest wishlist](https://www.google.com) for some ideas. You could also help around the house, such as mow the lawn, work on the campervan, or even do some DIY around the house, if you really want to contribute somehow.
 
 #### Is this an AirBnB?
 
@@ -68,3 +68,7 @@ Neither, in truth. You can find cows grazing a few meters away from our garden f
 The house is in a safe residential area with many families. It's also a minute from the main highway where you can catch an hour-long bus to Dublin city.
 
 We're selective in who we share the retreat with: usually close friends, creative communities and closed groups where we have some acquaintances. Or even better, if you happen to meet us in person and we gave you the link to this page!
+
+#### Is this a writer's / artist's retreat?
+
+Not explicitly, but you could very much use it as one.

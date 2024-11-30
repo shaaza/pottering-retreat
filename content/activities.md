@@ -1,23 +1,50 @@
 +++
-title = "Things to do"
+title = "Activities"
 template = "page.html"
 in_search_index = true
 +++
 
+- [Recommendations](#recommendations)
+  - [Potter around](#potter-around)
+    - [What can I do without leaving the house?](#what-can-i-do-without-leaving-the-house)
+  - [Local Recommendations](#local-recommendations)
+- [Our favourite places and activities](#our-favourite-places-and-activities)
+  - [Car or bus](#car-or-bus)
+  - [Walking](#walking)
 
-### 'Potter around'
+### Recommendations
+#### Potter around
 The number one recommended activity is pottering around, i.e. "to spend time in a relaxed way doing small jobs and other things that are not very important". It is therapeutic, but it's also one of the few things you _can_ do given there's not much around. 
 
-The fundamentals of pottering are: make do with what you've got, don't try too hard, move (a little), keep it local, keep it real (not digital). We hope this retreat lets you experience that.
+The fundamentals of pottering are: make do with what you've got, don't try too hard, move (a little), keep it local, keep it real (not digital). We hope this retreat creates the mindset for you to potter around.
 
-### Local News Recommendations
+##### What can I do without leaving the house?
+
+1. Chill by the **fireplace** under/on a duvet.
+2. **Listen to music** on the audio cassette / CD player.
+3. **Paint**. We've got canvases, paint and even paint-by-numbers.
+4. **Write**. We've got a few writing prompts and poetry games and a desk. And a typewriter-feel keyboard.
+5. **Read a book**. We've got a few books and cozy reading spots.
+6. **Play video games**. We've got a PlayStation 5 and two controllers.
+7. **Make cocktails**. We've got a cocktail making set and a cocktail book.
+8. **Cook**. Self-explanatory.
+9. **Watch a movie**. We've got a TV and a DVD player (and Netflix too, but that's not as cool).
+10. **Hack on electronics**, we've got a [Raspberry Pi starter kit](https://www.amazon.co.uk/dp/B094J982N4/ref=sspa_dk_detail_3) to learn and play around.
+11. **Gardening**. We don't maintain it all that well, but you're welcome to spruce it up.
+12. **Nap**. A lot.
+13. **Play board games**. You'd need company for that, but we might be free.
+14. **Skim through magazines**.
+
+#### Local Recommendations
 
 Follow the [Anglo-Celt publication](https://www.anglocelt.ie/) for local news and events. See [Ten Best Things to Do in Cavan](https://www.anglocelt.ie/2024/11/20/ten-best-things-to-do-in-cavan/) for a list of things they recommend.
 
-## Our favourite things to do
+### Our favourite places and activities
 
-#### If you drive (or via infrequent public transport)
-You can rent a Go-Car by the hour from the parking lot nearby.
+There's a LOT to see around this part of Ireland: Donegal and the gorgeous west coast of Ireland with it's surfing towns, beaches, mountains and literary and cultural history are just above an hour away. But in the spirit of 'keep it local', we'll list some of the most local things you can do.
+
+#### Car or bus
+You can rent a Go-Car by the hour from the parking lot nearby, or use the (infrequent) public transport for some of these.
 
 1. [Lakeside sauna](https://maps.app.goo.gl/h9J6u1btGHZuq5YW7) (10 mins): Sauna and dip at Annagh Lake, by a sandy, lake 'mini-beach'. A BBQ is available at site too, if the weather lets you.
 
@@ -37,7 +64,7 @@ A stroll by the river, along the old railway track, visit the railway museum. Ca
 7. Catch a show at the [Ramor Arts Centre](https://ramorartscentre.com/) in Virginia (30 mins)
 Music, theatre, comedy. Check out their [schedule](https://ramorartscentre.ticketsolve.com/ticketbooth/shows).
 
-#### If you don't drive
+#### Walking
 
 There's enough to do in Cavan town without having to drive.
 
