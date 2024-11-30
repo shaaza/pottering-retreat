@@ -4,21 +4,19 @@ template = "page.html"
 in_search_index = true
 +++
 
-- [Recommendations](#recommendations)
-  - [Potter around](#potter-around)
-    - [What can I do without leaving the house?](#what-can-i-do-without-leaving-the-house)
+- [Potter around](#potter-around)
+  - [Indoor activities](#indoor-activities)
   - [Local Recommendations](#local-recommendations)
-- [Our favourite places and activities](#our-favourite-places-and-activities)
+- [Places and activities](#places-and-activities)
   - [Car or bus](#car-or-bus)
   - [Walking](#walking)
 
-### Recommendations
-#### Potter around
+### Potter around
 The number one recommended activity is pottering around, i.e. "to spend time in a relaxed way doing small jobs and other things that are not very important". It is therapeutic, but it's also one of the few things you _can_ do given there's not much around. 
 
 The fundamentals of pottering are: make do with what you've got, don't try too hard, move (a little), keep it local, keep it real (not digital). We hope this retreat creates the mindset for you to potter around.
 
-##### What can I do without leaving the house?
+#### Indoor activities
 
 1. Chill by the **fireplace** under/on a duvet.
 2. **Listen to music** on the audio cassette / CD player.
@@ -39,7 +37,7 @@ The fundamentals of pottering are: make do with what you've got, don't try too h
 
 Follow the [Anglo-Celt publication](https://www.anglocelt.ie/) for local news and events. See [Ten Best Things to Do in Cavan](https://www.anglocelt.ie/2024/11/20/ten-best-things-to-do-in-cavan/) for a list of things they recommend.
 
-### Our favourite places and activities
+### Places and activities
 
 There's a LOT to see around this part of Ireland: Donegal and the gorgeous west coast of Ireland with it's surfing towns, beaches, mountains and literary and cultural history are just above an hour away. But in the spirit of 'keep it local', we'll list some of the most local things you can do.
 
